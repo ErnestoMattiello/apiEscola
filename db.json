@@ -1,0 +1,93 @@
+{
+  "escola" :
+  [
+  {
+    "id": 205,
+    "nome": "Química Orgânica",
+    "professor": "Profa. Ana Mendes",
+    "area_conhecimento": "Ciências da Natureza",
+    "carga_horaria_semanal": 5,
+    "ementa": "Estudo das estruturas, propriedades e reações de compostos baseados em carbono, com foco em hidrocarbonetos e funções orgânicas."
+  },
+  {
+    "id": 206,
+    "nome": "Física Mecânica",
+    "professor": "Prof. João Pereira",
+    "area_conhecimento": "Ciências da Natureza",
+    "carga_horaria_semanal": 4,
+    "ementa": "Conceitos fundamentais de movimento, forças e energia, com aplicações em sistemas do cotidiano."
+  },
+  {
+    "id": 207,
+    "nome": "Biologia Celular",
+    "professor": "Profa. Ana Mendes",
+    "area_conhecimento": "Ciências da Natureza",
+    "carga_horaria_semanal": 3,
+    "ementa": "Análise da estrutura e funcionamento das células, organelas e processos celulares essenciais à vida."
+  },
+  {
+    "id": 208,
+    "nome": "História do Brasil",
+    "professor": "Prof. Carlos Silva",
+    "area_conhecimento": "Ciências Humanas",
+    "carga_horaria_semanal": 4,
+    "ementa": "Estudo dos principais eventos da história do Brasil, desde o período colonial até a contemporaneidade."
+  },
+  {
+    "id": 209,
+    "nome": "Geografia Econômica",
+    "professor": "Profa. Mariana Costa",
+    "area_conhecimento": "Ciências Humanas",
+    "carga_horaria_semanal": 2,
+    "ementa": "Análise da relação entre economia e espaço geográfico, com foco em globalização e desenvolvimento regional."
+  },
+  {
+    "id": 210,
+    "nome": "Literatura Brasileira",
+    "professor": "Prof. Ricardo Gomes",
+    "area_conhecimento": "Linguagens e Códigos",
+    "carga_horaria_semanal": 3,
+    "ementa": "Estudo das principais escolas literárias do Brasil, autores representativos e obras clássicas."
+  },
+  {
+    "id": 211,
+    "nome": "Redação Acadêmica",
+    "professor": "Profa. Mariana Costa",
+    "area_conhecimento": "Linguagens e Códigos",
+    "carga_horaria_semanal": 2,
+    "ementa": "Técnicas e práticas de escrita formal, elaboração de textos dissertativos e produção científica."
+  },
+  {
+    "id": 212,
+    "nome": "Matemática Discreta",
+    "professor": "Prof. João Pereira",
+    "area_conhecimento": "Matemática",
+    "carga_horaria_semanal": 4,
+    "ementa": "Fundamentos da matemática discreta, incluindo lógica, conjuntos, relações, funções e grafos."
+  },
+  {
+    "id": 213,
+    "nome": "Álgebra Linear",
+    "professor": "Prof. Ricardo Gomes",
+    "area_conhecimento": "Matemática",
+    "carga_horaria_semanal": 5,
+    "ementa": "Estudo de vetores, matrizes, determinantes, sistemas lineares e transformações lineares."
+  },
+  {
+    "id": 214,
+    "nome": "Sociologia Contemporânea",
+    "professor": "Prof. Carlos Silva",
+    "area_conhecimento": "Ciências Humanas",
+    "carga_horaria_semanal": 3,
+    "ementa": "Discussão das principais teorias sociológicas e seus impactos na compreensão das sociedades atuais."
+  },
+  {
+    "id": 215,
+    "nome": "Química Inorgânica",
+    "professor": "Profa. Ana Mendes",
+    "area_conhecimento": "Ciências da Natureza",
+    "carga_horaria_semanal": 4,
+    "ementa": "Estudo das propriedades e reações dos elementos e compostos inorgânicos, com ênfase na tabela periódica."
+  }
+]
+}
